@@ -1,0 +1,10 @@
+Task - 1
+
+    Application of Artificial Neural Networks to build a classification model that can predict a forest fire category based on the other conditions
+
+Task - 2
+
+    Application of Artificial Neural Networks to build a classification model that can predict if a persons salary is above or below 50K based on other conditions.
+    
+
+I performed the hyperparameter tuning for both the tasks to find the best set of hyperparameters.
